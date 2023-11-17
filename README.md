@@ -1,2 +1,2 @@
 # Live Preview :
-https://tahir-rafique.github.io/Amazon-Clone/
+https://tahir-rafique.github.io/Amazon-frontend-clone/
